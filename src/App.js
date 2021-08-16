@@ -9,6 +9,8 @@ import Navbar from "./components/Navbar";
 import ExerciseList from "./components/ExerciseList";
 import EditExercises from "./components/EditExercises";
 
+//test
+
 function App() {
   return (
     <div className="container">
